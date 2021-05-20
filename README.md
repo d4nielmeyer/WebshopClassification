@@ -15,7 +15,7 @@ The project comprises the following steps, which are built on each other:
 The data contains the following files and folders:
 * dataset1.csv: Domain name and flag if the web site is an online shop (to be used for training)
 * dataset2.csv: Domain names which are unlabelled so far (to be used for predictions)
-* Folder „scraped_html“: One file with scraped HTML code of the main page for each of the web sites [not part of the repository due to size].
+* Folder „scraped_html“: One file with scraped HTML code of the main page for each of the web sites (not part of the repository due to size constraints).
 
 ## Tech Stack:
 
